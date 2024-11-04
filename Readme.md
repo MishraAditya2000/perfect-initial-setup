@@ -11,7 +11,7 @@
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-    - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
 
 ---
 
@@ -23,24 +23,29 @@
 ---
 
 ## Installation
-Install Dependencies
-npm install
 
+Install Dependencies
+
+```
+npm install
+```
 
 ## Usage
 
 Start Server
 
 For Development
+```
 npm run dev
-
+```
 For Production
+```
 npm run start
-
+```
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version x.x.x)
+- [Node.js](https://nodejs.org/) (version 20.17.00)
 - Any other dependencies or tools required.
 
 
